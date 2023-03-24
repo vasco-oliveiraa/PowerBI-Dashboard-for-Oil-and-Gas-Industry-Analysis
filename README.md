@@ -2,6 +2,10 @@
 
 This repository contains a PowerBI dashboard that offers insights into the oil and gas industry in New Mexico, with a focus on Yates Petroleum and their Business Development & Strategy team. The dashboard aims to help Yates develop and grow its market share by acquiring smaller operators, such as Ponderosa Petroleum, and making more informed decisions about expanding.
 
+Access the Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNmM1NGYwYTMtN2NiZi00NWFkLTg1YzAtNDE5ZjQxYjQyZjVlIiwidCI6IjczNDU4NDQzLTE2MjctNDA5MS04YjM5LTIyMjIxMzQ5MDdjNSIsImMiOjh9)
+
+Download the .pbix file above for an editable version.
+ 
 ## Case Study
 
 The oil and gas industry has faced numerous challenges in recent years, including the COVID-19 pandemic and the Ukraine war. These challenges have led organizations in the industry to cut costs and analyze different strategies, such as mergers and acquisitions, to remain competitive. The dashboard provides an overview of the industry, including the largest players and demand for oil and gas. It then takes a deeper dive into Yates Petroleum and their strategy for growth.
